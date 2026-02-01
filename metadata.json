@@ -1,0 +1,8 @@
+{
+  "name": "건양대학교 핵심역량 진단(2026)",
+  "description": "건양대학교 학생들의 6대 핵심역량 진단 결과를 시각화하고 학과별 비교 분석을 제공하는 포털 서비스입니다.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
